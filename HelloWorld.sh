@@ -1,4 +1,4 @@
- [ $valid ]
+le [ $valid ]
 do
 echo"hello " $count
 if [ $count -eq 5 ];
